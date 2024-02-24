@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week16-BTC-Price", "Week16-BTC-Price\Week16-BTC-Price.csproj", "{03BFB99B-7E2D-4DA7-917F-B3A5E58E80CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03BFB99B-7E2D-4DA7-917F-B3A5E58E80CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BFB99B-7E2D-4DA7-917F-B3A5E58E80CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BFB99B-7E2D-4DA7-917F-B3A5E58E80CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BFB99B-7E2D-4DA7-917F-B3A5E58E80CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EDFB9A8-0CB1-4D30-9DD4-EC8E915411E7}
+	EndGlobalSection
+EndGlobal
